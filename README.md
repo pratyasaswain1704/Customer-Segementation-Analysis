@@ -8,6 +8,9 @@ Each segment is examined numerically and visually to reveal differences in spend
 The dataset includes 200 customers described by:
 
 Gender
+
 Age
+
 Annual Income (k$)
+
 Spending Score (1–100)
